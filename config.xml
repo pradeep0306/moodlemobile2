@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" id="com.moodle.moodlemobile" version="3.3.1">
-    <name>Moodle Mobile</name>
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" id="in.moodlelms" version="3.3.1">
+    <name>Moodle LMS</name>
     <description>
         Moodle Mobile official app
     </description>
-    <author href="http://moodle.com" email="mobile@moodle.com">
+    <author href="http://moodle.com" email="pradeeppenumatcha03@gmail.com">
         Moodle Mobile team
     </author>
     <content src="index.html"/>
